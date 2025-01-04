@@ -1,6 +1,6 @@
 # Projeto de um site de compra do jogo GTA V 😊
 
-[<img src="../imagem/tela-gta.gif">]
+[<img src="./src/imagem/tela-gta.gif">]
 
 ## Tecnologias usadas:
 
